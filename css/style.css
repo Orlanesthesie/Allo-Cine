@@ -1,0 +1,13 @@
+body {
+    background-image: url(../tulipes\ roses.jpg);
+    color: white
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
